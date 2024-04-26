@@ -1,6 +1,6 @@
 #  ij.start.canon 
 
-[![ij.start.canon](gett-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](gett-started.png)](https://can.printredir.com)
 
 Canon printer setup is very easy, even if you’re a new Canon printer user. Canon IJ printer setup can be done in three main steps – Canon printer setup Wi-Fi, Canon printer wireless connects setup and Printer setup using USB. Now you must be wondering about the drivers – Where do I get the drivers from? No doubts! If you want to download Canon printer driver for your printer, go to ij.start.canon you can even set up the Canon printer using the ij start manual. If you want to start your Canon printer setup procedure, you can visit us at ij.start.canon page. This page covers some of the most common query and topics that you would want to learn.
 
